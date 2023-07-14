@@ -14,6 +14,7 @@ const html = `
 <html>
   <head>
     <title>Hello from Render!</title>
+    <p> hoge hoge hoge </p>
     <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
     <script>
       setTimeout(() => {
